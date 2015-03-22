@@ -3,6 +3,26 @@
         [
                 {
                         "author": "Pitched Apps",
+                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/0official.png",
+                        "name": "0official"
+                },
+                {
+                        "author": "Pitched Apps",
+                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/cat.png",
+                        "name": "cat"
+                },
+                {
+                        "author": "Pitched Apps",
+                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/cyber.png",
+                        "name": "cyber"
+                },
+                {
+                        "author": "Pitched Apps",
+                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/origami_wolf.png",
+                        "name": "origami_wolf"
+                },
+                {
+                        "author": "Pitched Apps",
                         "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wall_1.png",
                         "name": "wall_1"
                 },
@@ -18,48 +38,8 @@
                 },
                 {
                         "author": "Pitched Apps",
-                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wall_12.png",
-                        "name": "wall_12"
-                },
-                {
-                        "author": "Pitched Apps",
-                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wall_13.png",
-                        "name": "wall_13"
-                },
-                {
-                        "author": "Pitched Apps",
                         "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wall_14.png",
                         "name": "wall_14"
-                },
-                {
-                        "author": "Pitched Apps",
-                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wall_2.png",
-                        "name": "wall_2"
-                },
-                {
-                        "author": "Pitched Apps",
-                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wall_2b.png",
-                        "name": "wall_2b"
-                },
-                {
-                        "author": "Pitched Apps",
-                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wall_2c.png",
-                        "name": "wall_2c"
-                },
-                {
-                        "author": "Pitched Apps",
-                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wall_3.png",
-                        "name": "wall_3"
-                },
-                {
-                        "author": "Pitched Apps",
-                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wall_4.png",
-                        "name": "wall_4"
-                },
-                {
-                        "author": "Pitched Apps",
-                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wall_5.png",
-                        "name": "wall_5"
                 },
                 {
                         "author": "Pitched Apps",
@@ -73,13 +53,28 @@
                 },
                 {
                         "author": "Pitched Apps",
-                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wall_8.png",
-                        "name": "wall_8"
+                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wall_9.png",
+                        "name": "wall_9"
                 },
                 {
                         "author": "Pitched Apps",
-                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wall_9.png",
-                        "name": "wall_9"
+                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/waterdrops.png",
+                        "name": "waterdrops"
+                },
+                {
+                        "author": "Pitched Apps",
+                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wind_blue.png",
+                        "name": "wind_blue"
+                },
+                {
+                        "author": "Pitched Apps",
+                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wind_colourful.png",
+                        "name": "wind_colourful"
+                },
+                {
+                        "author": "Pitched Apps",
+                        "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material Glass/wind_white.png",
+                        "name": "wind_white"
                 }
            ]
 }
