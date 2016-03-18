@@ -16,12 +16,12 @@ git pull origin master|pulls from origin
 :---|:---
 git push -f origin master|force pushes to origin (remote will be exactly like the origin, changes there will be lost
 git pull -f origin master|force pull from origin
-git reset --hard HEAD~*number*|will remove the latest <number> commits (ie 1 will remove 1 commit) permanently
+git reset --hard HEAD~*number*|will remove the latest *number* commits (ie 1 will remove 1 commit) permanently
 
 
 |Remote||
 :---|:---
 git remote -v | view existing remotes
-git remote add *name* *url* | add new remote
+git remote add *name* *url* | add new remote with given url
 git remote rm *name* | remove remote
 git remote set-url --add --push *name* *url*| adds new push url to existing remote
