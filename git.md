@@ -1,14 +1,14 @@
 # Git Cheat Sheet
 
-Initializing | 
---- | ---
+|Initializing||
+---|---
 git init | initializes .git
 git add -A | adds all the git files
 git commit -m '<message>' | creates a commit with a message (message is mandatory)
 
 
-Remote |
---- | ---
+|Remote||
+---|---
 git remote -v | view existing remotes
 git remote add <name> <url> | add new remote
 git remote rm <name> | remove remote
