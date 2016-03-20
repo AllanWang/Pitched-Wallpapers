@@ -1,6 +1,6 @@
 # Git Cheat Sheet
 
-View a sample .gitignore file [here](https://github.com/asdfasdfvful/Pitched-Wallpapers/blob/master/.gitignor)
+View a sample .gitignore file [here](https://github.com/asdfasdfvful/Pitched-Wallpapers/blob/master/.gitignore)
 
 *words in italic represent things you should change (ie message = what you should type as your message)*
 
