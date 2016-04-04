@@ -25,3 +25,7 @@ git remote -v | view existing remotes
 git remote add *name* *url* | add new remote with given url
 git remote rm *name* | remove remote
 git remote set-url --add --push *name* *url*| adds new push url to existing remote
+
+|Other||
+:---|:---
+git clone [url] | clones the git url to local
